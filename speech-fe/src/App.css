@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.left {
+  width: 50%;
+  padding: 20px;
+  background-color: lightgray;
+}
+
+.right {
+  width: 50%;
+  padding: 20px;
+  background-color: lightblue;
+}
